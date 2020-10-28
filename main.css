@@ -502,6 +502,9 @@
 @media (max-width: 539px) {
   .how-it-works__steps {
     flex-wrap: wrap;
+    width: 96%;
+    padding-left: 2%;
+    padding-right: 2%;
   }
 }
 
@@ -529,7 +532,8 @@
   .page__footer {
     flex-direction: column;
     text-align: center;
-    padding: 20px 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 
   .footer__partners {
@@ -613,6 +617,20 @@
 }
 
 @media (max-width: 740px) {
+  .ideas__slide {
+    width: 96%;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+
+  .slide__text {
+    width: 96%;
+  }
+
+  .slide__img {
+    width: 100%;
+  }
+
   .slide__sport-and-activity {
     content: url(Sport-and-Activity-mobile.jpg);
   }
