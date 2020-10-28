@@ -1,7 +1,7 @@
 @font-face {
-  font-family: "Motserrat";
+  font-family: "Montserrat";
   src: url(fonts/Montserrat-Regular.woff) format("woff"),
-       url(fonts/MotserratBold.woff) format("woff");
+       url(fonts/MontserratBold.woff) format("woff");
 }
 
 @font-face {
