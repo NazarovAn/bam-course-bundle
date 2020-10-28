@@ -1,12 +1,12 @@
 @font-face {
   font-family: "Motserrat";
-  src: url(fonts/Montserrat-Regular.ttf),
-       url(fonts/MontserratBold.ttf);
+  src: url(fonts/Montserrat-Regular.ttf) format("ttf"),
+       url(fonts/MontserratBold.ttf) format("ttf");
 }
 
 @font-face {
   font-family: "Roboto";
-  src: url(fonts/Roboto.ttf);
+  src: url(fonts/Roboto.ttf) format("ttf");
 }
 
 * {
